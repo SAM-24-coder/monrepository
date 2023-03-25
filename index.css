@@ -8,8 +8,8 @@ div{ border-radius: 10px; text-align: center; border: 1px solid black;}
     background:  -ms-linear-gradient(#FFFFFF,#84CEEB);
     background: linear-gradient(#ffffff,#DEF2F1);
 }
-#left-side{float: left;width: 29%; min-height: 29px; padding: 2px;}
-#middle-side{float: left; width: 69%; min-height: 500px;}
-#right-side{float: right; width: 60%; min-height: 300px;}
+#left-side{float: left;width: 35%; min-height: 29px; padding: 2px;}
+#middle-side{float: left; width: 71%; min-height: 500px;}
+#right-side{float: right; width: 63%; min-height: 300px;}
 #droit{float: left;width: 29%; min-height: 200px;}
 #footer-down {float :left; width: 1500px;}
